@@ -15,6 +15,8 @@
 
     <!-- Scripts -->
     @vite(['resources/js/app.js'])
+
+    
     @livewireStyles
 </head>
 <body>
